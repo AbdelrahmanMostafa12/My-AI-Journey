@@ -1,8 +1,7 @@
 # My-AI-Journey  
 ## AI & Data Science – Generative AI Professional
 
-![Digital Pioneers Initiative](<img width="744" height="684" alt="image" src="https://github.com/user-attachments/assets/da98f5ae-7df6-4f25-b4f8-a886e96915e2" />
-)
+![Digital Pioneers Initiative](images.png)
 
 **My-AI-Journey** is a complete learning path designed to build strong foundations in Artificial Intelligence and Data Science, with a special focus on **Generative AI** and its real-world applications.  
 This journey is part of the **Digital Pioneers Initiative (DEPI)** and aims to equip trainees with the essential and advanced skills needed to work effectively with modern AI technologies.
